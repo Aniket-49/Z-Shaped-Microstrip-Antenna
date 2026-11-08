@@ -10,7 +10,25 @@ Design and simulation of a Z-shaped microstrip patch antenna designed for a targ
 - S-Parameter Analysis
 - Far-field Radiation Analysis
 
-## Design and Simulation Results
+## Design and Simulation Results## Design and Simulation Results
+
+### 1. 3D Antenna Design
+![3D Antenna Design](<antenna 3d design.jpeg>)
+
+### 2. Antenna Schematic
+![Antenna Schematic](<antenna schematic.jpeg>)
+
+### 3. S11 / Return Loss
+![S11 Return Loss](s11.jpeg)
+
+### 4. S11 Impedance View
+![S11 Impedance View](<s11 impedence veiw.jpeg>)
+
+### 5. VSWR
+![VSWR](vswr.jpeg)
+
+### 6. Far-field Radiation Pattern
+![Far-field Radiation Pattern](farfeild.jpeg)
 
 ### 1. 3D Antenna Design
 File: `antenna 3d design.jpeg`
